@@ -1,0 +1,8 @@
+build/
+sd/
+sd2/
+*.M65V
+*.m65v
+*.d81
+*.bin
+.DS_Store
